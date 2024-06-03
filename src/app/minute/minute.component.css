@@ -1,0 +1,10 @@
+#minute{
+    width: 4px;
+    height: 220px;
+    background: black;
+    border-radius: 10px;
+    position: absolute;
+    top: 18%;
+    left: 49.7%;
+    transform-origin: bottom;
+}

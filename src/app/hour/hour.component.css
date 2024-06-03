@@ -1,0 +1,10 @@
+#hour{
+    width: 4px;
+    height: 180px;
+    background: black;
+    border-radius: 10px;
+    position: absolute;
+    top: 24%;
+    left: 49.7%;
+    transform-origin: bottom;
+}

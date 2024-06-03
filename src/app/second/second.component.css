@@ -1,0 +1,10 @@
+#second{
+    width: 2px;
+    height: 240px;
+    background: black;
+    border-radius: 10px;
+    position: absolute;
+    top: 15%;
+    left: 49.9%;
+    transform-origin: bottom;
+}

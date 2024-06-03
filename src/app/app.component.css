@@ -1,0 +1,9 @@
+#clock{
+    border: 2px solid black;
+    height: 40vw;
+    width: 40vw;
+    background:url(clock.png) no-repeat;
+    background-size: 100%;
+    margin: auto;
+    position: relative;
+}
